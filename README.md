@@ -76,6 +76,6 @@ Nutrition-Paradox-Project
 
 ## 👤 Author
 **PRAVINKUMAR S**
-- LinkedIn: www.linkedin.com/in/pravinkumar-s-49b23b231
+LinkedIn: www.linkedin.com/in/pravinkumar-s-49b23b231
 
 ---
