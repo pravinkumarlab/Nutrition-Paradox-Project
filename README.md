@@ -51,10 +51,11 @@ The notebook includes **10 visualizations**, covering:
 ---
 
 ## 📂 Repository Contents
+```
 Nutrition-Paradox-Project
 ├─ Nutrition_Paradox.ipynb
 └─ README.md
-
+```
 ---
 
 ## ▶️ How to Run the Project
