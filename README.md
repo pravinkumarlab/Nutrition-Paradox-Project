@@ -76,10 +76,6 @@ Nutrition-Paradox-Project
 
 ## 👤 Author
 **PRAVINKUMAR S**
-LinkedIn: www.linkedin.com/in/pravinkumar-s-49b23b231
+- LinkedIn: www.linkedin.com/in/pravinkumar-s-49b23b231
 
 ---
-
-## 📌 Note
-This repository contains only the Jupyter Notebook file.  
-Database connections and dashboards are demonstrated within the notebook itself.
