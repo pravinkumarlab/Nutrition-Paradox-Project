@@ -75,8 +75,8 @@ Nutrition-Paradox-Project
 ---
 
 ## 👤 Author
-**PRAVINKUMAR S**  
-(Data Science / Analytics Project)
+**PRAVINKUMAR S**
+LinkedIn: www.linkedin.com/in/pravinkumar-s-49b23b231
 
 ---
 
